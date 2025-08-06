@@ -1,10 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    background-color: #ffe6f2; /* hồng nhạt */
     margin: 0;
-    background: #fff;
-    color: #222;
+    font-family: Arial, sans-serif;
 }
-
 header {
     background: #111;
     color: white;
